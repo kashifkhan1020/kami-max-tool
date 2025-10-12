@@ -6,3 +6,15 @@ All-in-one Termux toolkit with:
 4. Image Steganography
 5. Kamix Hollywood terminal
 6. Termux Secure Chat v2
+
+
+
+ Termux-setup-packages
+ 
+ apt update && apt upgrade 
+ pkg install git -y
+ pkg install python
+ pkg install python2
+ pkg install bash
+ pkg install curl
+ git clone 
