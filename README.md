@@ -12,14 +12,23 @@ All-in-one Termux toolkit with:
  Termux-setup-packages
  
  apt update && apt upgrade 
+
  pkg install git -y
+ 
  pkg install python
+
  pkg install python2
+
  pkg install bash
+
  pkg install curl
+
  git clone    https://github.com/kashifkhan1020/kami-max-tool.git
+
 cd kami-max-tool
+
 bash setup.sh
+
 python3 kami_max_toolkit.py
 
 
